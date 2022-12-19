@@ -1,3 +1,3 @@
 # OneHotel-Admin-App
 
-A visualization demo using jQuery and Materialize.
+An analytics demo using jQuery and Materialize.
